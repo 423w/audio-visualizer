@@ -1,0 +1,5 @@
+obtain live audio data
+slice into digestible chunks (very small)
+perform fft on chunk to get frequency information
+send frequency information to graphical component
+display lightweight graphical component live
